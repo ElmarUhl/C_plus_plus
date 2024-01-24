@@ -1,2 +1,2 @@
-# C_plus_plus
-Repository of C++ programs
+# C++
+Repository of several source C++ programs from some tutorials.
