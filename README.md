@@ -3,3 +3,12 @@
 # C++ Tutorial Programs
 
 Repository of several source C++ programs from some tutorials.
+
+## Compiling C++ Programs in Linux
+
+1. ```g++ program.cpp``` creates a.out executable file.
+2. ```g++ program.cpp -o program``` creates program executable file.
+
+## Running Program
+
+Use ```./a.out``` in command line for 1. case our ```./program``` for 2. case.
