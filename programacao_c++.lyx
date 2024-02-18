@@ -136,5 +136,45 @@ int main()
 
 \end_layout
 
+\begin_layout Section
+Desvio de Fluxo
+\end_layout
+
+\begin_layout Subsection
+if else
+\end_layout
+
+\begin_layout Subsection
+if else if
+\end_layout
+
+\begin_layout Subsection
+switch
+\end_layout
+
+\begin_layout Subsection
+while
+\end_layout
+
+\begin_layout Subsection
+do while
+\end_layout
+
+\begin_layout Subsection
+for
+\end_layout
+
+\begin_layout Subsection
+goto
+\end_layout
+
+\begin_layout Subsection
+break continue
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
 \end_body
 \end_document
