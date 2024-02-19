@@ -12,3 +12,7 @@ Repository of several source C++ programs from some tutorials.
 ## Running Program
 
 Use ```./a.out``` in command line for 1. case our ```./program``` for 2. case.
+
+## About Makefiles
+
+Introdução ao makefile - https://embarcados.com.br/introducao-ao-makefile/
