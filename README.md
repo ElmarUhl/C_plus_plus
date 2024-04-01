@@ -16,3 +16,7 @@ Use ```./a.out``` in command line for 1. case our ```./program``` for 2. case.
 ## About Makefiles
 
 Introdução ao makefile - https://embarcados.com.br/introducao-ao-makefile/
+
+## Useful Links
+
+[Tutorial C++](https://www.ic.unicamp.br/~cmrubira/aacesta/cpp/cpp15.html): A good introductory text in portuguese about C++ programming.
